@@ -2,7 +2,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class Inventory {
-  public String itemName, serialNum;
+  	public String itemName; 
+	public String serialNum;
 	public int value;
 }
 
